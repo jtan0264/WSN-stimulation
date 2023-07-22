@@ -1,0 +1,410 @@
+--------------------------------------------------------------------------------------------
+Iteration: 1
+Logged Time:                     2022/09/20	 21:49:48
+Alert Reported Time:             2022/09/20	 21:49:48
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+0     (0, 0)                       (-2.20, -2.20)                      6.80
+
+Adjacent Node
+3	 (1, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.21, -3.21)         248.44           5.79           1.00
+
+Adjacent Node
+1	 (0, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-4.54, -1.54)         269.84           4.46           2.33
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 2
+Logged Time:                     2022/09/20	 21:49:48
+Alert Reported Time:             2022/09/20	 21:49:48
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+5     (1, 2)                       (-1.87, 1.13)                      4.13
+
+Adjacent Node
+2	 (0, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-3.87, 2.13)         248.39           5.13           1.00
+
+Adjacent Node
+8	 (2, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (3.12, 3.12)         598.25           6.12           2.00
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (0.46, 0.46)         269.99           6.46           2.34
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 3
+Logged Time:                     2022/09/20	 21:49:48
+Alert Reported Time:             2022/09/20	 21:49:48
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+4     (1, 1)                       (0.46, 0.46)                      6.46
+
+Adjacent Node
+1	 (0, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-4.54, -1.54)         598.20           4.46           2.00
+
+Adjacent Node
+7	 (2, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (2.46, -0.54)         248.43           5.46           1.00
+
+Adjacent Node
+3	 (1, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.21, -3.21)         414.29           5.79           0.67
+
+Adjacent Node
+5	 (1, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-1.87, 1.13)         269.99           4.13           2.34
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 4
+Logged Time:                     2022/09/20	 21:49:48
+Alert Reported Time:             2022/09/20	 21:49:48
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+3     (1, 0)                       (-0.21, -3.21)                      5.79
+
+Adjacent Node
+0	 (0, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-2.20, -2.20)         248.44           6.80           1.00
+
+Adjacent Node
+6	 (2, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (1.79, -4.21)         248.45           4.79           1.00
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (0.46, 0.46)         414.29           6.46           0.67
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 5
+Logged Time:                     2022/09/20	 21:49:50
+Alert Reported Time:             2022/09/20	 21:49:50
+Alert type: CONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+8     (2, 2)                       (1.45, 1.45)                      4.45
+
+Adjacent Node
+5	 (1, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.54, 2.46)         248.45           5.46           1.00
+
+Adjacent Node
+7	 (2, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (3.79, 0.79)         269.85           6.79           2.33
+
+Balloon Seismic Reported Time:   2022/09/20	 21:49:49
+Balloon Seismic Reported Coord: (2.32, 2.32)
+Coord Diff between Balloon and Reporting Node: 136.38
+Magnitude Diff between Balloon and Reporting Node: 0.86
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 6
+Logged Time:                     2022/09/20	 21:49:50
+Alert Reported Time:             2022/09/20	 21:49:50
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+5     (1, 2)                       (-0.54, 2.46)                      5.46
+
+Adjacent Node
+2	 (0, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-2.54, 3.46)         248.43           6.46           1.00
+
+Adjacent Node
+8	 (2, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (1.45, 1.45)         248.45           4.45           1.00
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-1.21, -1.21)         414.24           4.79           0.67
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 7
+Logged Time:                     2022/09/20	 21:49:52
+Alert Reported Time:             2022/09/20	 21:49:52
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+0     (0, 0)                       (-2.54, -2.54)                      6.46
+
+Adjacent Node
+3	 (1, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.54, -3.54)         248.43           5.46           1.00
+
+Adjacent Node
+1	 (0, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-4.87, -1.87)         269.94           4.13           2.34
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 8
+Logged Time:                     2022/09/20	 21:49:52
+Alert Reported Time:             2022/09/20	 21:49:52
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+3     (1, 0)                       (-0.54, -3.54)                      5.46
+
+Adjacent Node
+0	 (0, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-2.54, -2.54)         248.43           6.46           1.00
+
+Adjacent Node
+6	 (2, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (1.45, -4.55)         248.45           4.45           1.00
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (0.12, 0.12)         414.10           6.12           0.66
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 9
+Logged Time:                     2022/09/20	 21:49:54
+Alert Reported Time:             2022/09/20	 21:49:54
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+4     (1, 1)                       (-1.55, -1.55)                      4.45
+
+Adjacent Node
+1	 (0, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-3.54, -0.54)         248.40           5.46           1.00
+
+Adjacent Node
+7	 (2, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (3.45, 0.45)         598.24           6.45           2.00
+
+Adjacent Node
+3	 (1, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (0.79, -2.21)         269.87           6.79           2.33
+
+Adjacent Node
+5	 (1, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.88, 2.12)         414.01           5.12           0.66
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 10
+Logged Time:                     2022/09/20	 21:49:54
+Alert Reported Time:             2022/09/20	 21:49:54
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+3     (1, 0)                       (0.79, -2.21)                      6.79
+
+Adjacent Node
+0	 (0, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-4.21, -4.21)         598.21           4.79           2.00
+
+Adjacent Node
+6	 (2, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (2.78, -3.22)         248.36           5.78           1.00
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-1.55, -1.55)         269.87           4.45           2.33
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 11
+Logged Time:                     2022/09/20	 21:49:54
+Alert Reported Time:             2022/09/20	 21:49:54
+Alert type: CONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+8     (2, 2)                       (1.12, 1.12)                      4.12
+
+Adjacent Node
+5	 (1, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.88, 2.12)         248.45           5.12           1.00
+
+Adjacent Node
+7	 (2, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (3.45, 0.45)         269.97           6.45           2.34
+
+Balloon Seismic Reported Time:   2022/09/20	 21:49:49
+Balloon Seismic Reported Coord: (2.32, 2.32)
+Coord Diff between Balloon and Reporting Node: 189.66
+Magnitude Diff between Balloon and Reporting Node: 1.19
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 12
+Logged Time:                     2022/09/20	 21:49:54
+Alert Reported Time:             2022/09/20	 21:49:54
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+5     (1, 2)                       (-0.88, 2.12)                      5.12
+
+Adjacent Node
+2	 (0, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-2.88, 3.12)         248.42           6.12           1.00
+
+Adjacent Node
+8	 (2, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (1.12, 1.12)         248.45           4.12           1.00
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-1.55, -1.55)         414.01           4.45           0.66
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 13
+Logged Time:                     2022/09/20	 21:49:56
+Alert Reported Time:             2022/09/20	 21:49:56
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+3     (1, 0)                       (-0.88, -3.88)                      5.12
+
+Adjacent Node
+0	 (0, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-2.88, -2.88)         248.42           6.12           1.00
+
+Adjacent Node
+6	 (2, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (1.12, -4.88)         248.45           4.12           1.00
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.22, -0.22)         414.08           5.78           0.66
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 14
+Logged Time:                     2022/09/20	 21:49:56
+Alert Reported Time:             2022/09/20	 21:49:56
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+1     (0, 1)                       (-2.21, 0.79)                      6.79
+
+Adjacent Node
+4	 (1, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.22, -0.22)         248.37           5.78           1.00
+
+Adjacent Node
+0	 (0, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-2.88, -2.88)         413.89           6.12           0.67
+
+Adjacent Node
+2	 (0, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-4.55, 1.45)         269.84           4.45           2.33
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Iteration: 15
+Logged Time:                     2022/09/20	 21:49:56
+Alert Reported Time:             2022/09/20	 21:49:56
+Alert type: INCONCLUSIVE
+
+Reporting Node                  Seismic Coordinate                   Magnitude
+4     (1, 1)                       (-0.22, -0.22)                      5.78
+
+Adjacent Node
+1	 (0, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-2.21, 0.79)         248.37           6.79           1.00
+
+Adjacent Node
+7	 (2, 1)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (1.78, -1.22)         248.45           4.78           1.00
+
+Adjacent Node
+3	 (1, 0)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (-0.88, -3.88)         414.08           5.12           0.66
+
+Adjacent Node
+5	 (1, 2)
+                                Seismic Coordinate  Coord Diff(km)  Magnitude   Magnitude Diff
+                                (0.45, 3.45)         414.48           6.45           0.67
+
+No Balloon Seismic Reading as the earthquake event is inconclusive
+--------------------------------------------------------------------------------------------
+
+Summary of earthquakes
+Number of Events: 15
+Number of Conclusive Events: 2
+Number of Inconclusive Events: 13
